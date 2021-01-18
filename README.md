@@ -55,3 +55,4 @@ MIT
 [unix-ci-url]: https://app.circleci.com/pipelines/github/vitejs/vite?branch=main
 [windows-ci-img]: https://ci.appveyor.com/api/projects/status/0q4j8062olbcs71l/branch/main?svg=true
 [windows-ci-url]: https://ci.appveyor.com/project/yyx990803/vite/branch/main
+#1
